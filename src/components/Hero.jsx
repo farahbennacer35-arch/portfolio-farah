@@ -15,14 +15,14 @@ function Hero() {
         <h3>Développeuse Full Stack | Data & IA</h3>
 
         <p>
-          Étudiante en Génie Logiciel et Systèmes d’Information, passionnée par
+          Techniciennne en Génie Logiciel et Systèmes d’Information, passionnée par
           le développement web, l’intelligence artificielle et l’analyse de
           données. J’ai réalisé plusieurs projets concrets avec Angular, Laravel,
           Node.js, Spring Boot et Python.
         </p>
 
         <p>
-          Actuellement à la recherche d’une opportunité de stage, projet web ou
+          Actuellement à la recherche d’une opportunité de Travail, projet web ou
           collaboration professionnelle.
         </p>
 

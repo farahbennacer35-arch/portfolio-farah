@@ -1683,3 +1683,73 @@ body {
 .demo-box {
   animation: softPulse 0.45s ease both;
 }
+.details-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 100000;
+  background: rgba(15, 23, 42, 0.78);
+  backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+}
+
+.details-box {
+  width: min(900px, 95%);
+  max-height: 88vh;
+  overflow-y: auto;
+  background: #ffffff;
+  border-radius: 28px;
+  padding: 30px;
+  position: relative;
+}
+
+.details-close {
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  width: 42px;
+  height: 42px;
+  border: none;
+  border-radius: 50%;
+  background: #f1f5f9;
+  color: #0f172a;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.details-header h3 {
+  font-size: 30px;
+  margin: 10px 0;
+}
+
+.detail-block {
+  background: #f8fafc;
+  border-radius: 18px;
+  padding: 18px;
+  margin-bottom: 14px;
+}
+
+.detail-block h4 {
+  margin-bottom: 8px;
+}
+
+.details-info {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.details-info span,
+.detail-block li {
+  background: white;
+  padding: 10px;
+  border-radius: 12px;
+  display: block;
+}
+
+.details-footer {
+  display: flex;
+  gap: 12px;
+}

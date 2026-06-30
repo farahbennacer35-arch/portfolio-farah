@@ -20,7 +20,7 @@ function Parcours() {
             </div>
 
             <div className="timeline-content">
-              <span>2023 — Présent</span>
+              <span>2023 — 2026</span>
               <h4>Génie Logiciel & Systèmes d’Information</h4>
               <p>Institut International de Technologie — IIT Sfax</p>
               <small>
@@ -56,7 +56,7 @@ function Parcours() {
             </div>
 
             <div className="timeline-content">
-              <span>Février 2026 — Présent</span>
+              <span>Février 2026 — Mai 2026</span>
               <h4>Software Developer — All Soft Multimédia</h4>
               <p>Sfax, Tunisie</p>
               <small>

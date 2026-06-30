@@ -5,7 +5,7 @@ function About() {
       <div className="section-title reveal">
         <h2>À propos de moi</h2>
         <p>
-          Étudiante motivée, orientée solution, avec un fort intérêt pour les
+          Techniciennne motivée, orientée solution, avec un fort intérêt pour les
           applications web modernes, les systèmes d’information et l’IA.
         </p>
       </div>
@@ -14,7 +14,7 @@ function About() {
         <h3>🎓 Farah Bennacer</h3>
 
         <p>
-          Actuellement étudiante en <strong>Génie Logiciel et Systèmes
+          Actuellement Techniciennne en <strong>Génie Logiciel et Systèmes
           d’Information</strong> à l’<strong>Institut International de
           Technologie de Sfax</strong>.
         </p>

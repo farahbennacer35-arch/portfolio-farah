@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import { useState } from "react";
 
 /* Event images */
@@ -208,7 +208,6 @@ function Projects() {
   );
 }
 
-=======
 import { useState } from "react";
 
 /* Event images */
@@ -417,6 +416,4 @@ function Projects() {
     </section>
   );
 }
-
->>>>>>> 3ccef11 (initial portfolio)
 export default Projects;

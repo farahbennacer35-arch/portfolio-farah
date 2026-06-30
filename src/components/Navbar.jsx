@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import profile from "../assets/farah.jpg";
 
 function Navbar() {
@@ -26,7 +26,6 @@ function Navbar() {
   );
 }
 
-=======
 import profile from "../assets/farah.jpg";
 
 function Navbar() {
@@ -54,5 +53,4 @@ function Navbar() {
   );
 }
 
->>>>>>> 3ccef11 (initial portfolio)
 export default Navbar;

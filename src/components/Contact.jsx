@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function Contact() {
   return (
     <section className="contact" id="contact">
@@ -47,7 +47,6 @@ function Contact() {
   );
 }
 
-=======
 function Contact() {
   return (
     <section className="contact" id="contact">
@@ -96,5 +95,5 @@ function Contact() {
   );
 }
 
->>>>>>> 3ccef11 (initial portfolio)
+
 export default Contact;

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function Footer() {
   return (
     <footer>
@@ -7,7 +7,6 @@ function Footer() {
   );
 }
 
-=======
 function Footer() {
   return (
     <footer>
@@ -16,5 +15,4 @@ function Footer() {
   );
 }
 
->>>>>>> 3ccef11 (initial portfolio)
 export default Footer;

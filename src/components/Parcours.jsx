@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import asmLogo from "../assets/asm.png";
 import iitLogo from "../assets/iit.png";
 
@@ -177,7 +177,6 @@ function Parcours() {
   );
 }
 
-=======
 import asmLogo from "../assets/asm.png";
 import iitLogo from "../assets/iit.png";
 
@@ -356,5 +355,4 @@ function Parcours() {
   );
 }
 
->>>>>>> 3ccef11 (initial portfolio)
 export default Parcours;

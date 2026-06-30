@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import profile from "../assets/farah.jpg";
 
 function Hero() {
@@ -49,7 +49,6 @@ function Hero() {
   );
 }
 
-=======
 import profile from "../assets/farah.jpg";
 
 function Hero() {
@@ -100,5 +99,4 @@ function Hero() {
   );
 }
 
->>>>>>> 3ccef11 (initial portfolio)
 export default Hero;
